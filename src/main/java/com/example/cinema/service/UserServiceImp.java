@@ -18,4 +18,8 @@ public class UserServiceImp implements UserService{
         }
         return null;
     }
+
+    public  void update(Long id, User user){
+        System.out.println("bajn dda update thanfh coong");
+    }
 }
