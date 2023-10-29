@@ -18,4 +18,9 @@ public class UserServiceImp implements UserService{
         }
         return null;
     }
+
+    public  void GetOneUser() {
+
+        System.out.println("tao là tun 2 đây");
+    }
 }
