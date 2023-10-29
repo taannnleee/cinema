@@ -32,7 +32,7 @@ public class UserServiceImp implements UserService{
 
     }
 
-    public  void GetOneUserH() {
+    public  void GetOneUserH1() {
 
         System.out.println("tao là tũn 22 đây");
     }
