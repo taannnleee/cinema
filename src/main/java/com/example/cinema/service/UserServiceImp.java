@@ -20,5 +20,6 @@ public class UserServiceImp implements UserService{
     }
     public void deleteUser(Long id, User user){
         System.out.println("ban ddax xoas thanfh coong");
+        System.out.println("ban ddax xoas thanfh coong -v2");
     }
 }
