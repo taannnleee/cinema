@@ -27,5 +27,7 @@ public class UserServiceImp implements UserService{
 
         System.out.println("Dieu2");
 
+        System.out.println("Dieu22");
+
     }
 }
