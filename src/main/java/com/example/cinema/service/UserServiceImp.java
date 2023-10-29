@@ -23,4 +23,9 @@ public class UserServiceImp implements UserService{
 
         System.out.println("tao là tun 2 đây");
     }
+
+    public  void GetOneUserH() {
+
+        System.out.println("tao là tũn 22 đây");
+    }
 }
