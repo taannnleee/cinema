@@ -22,5 +22,6 @@ public class UserServiceImp implements UserService{
     public  void update(Long id, User user){
         System.out.println("bajn dda update thanfh coong, tao mới thêm một update v2");
         System.out.println("Diu1");
+        System.out.println("Dieu2");
     }
 }
