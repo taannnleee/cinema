@@ -2,6 +2,7 @@ package com.example.cinema.service;
 
 import com.example.cinema.entity.User;
 import com.example.cinema.repositories.UserRepository;
+import jakarta.persistence.criteria.CriteriaBuilder;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import java.util.ArrayList;
@@ -35,5 +36,8 @@ public class UserServiceImp implements UserService{
     public  void GetOneUserH1() {
 
         System.out.println("tao là tũn 22 đây");
+    }
+    public void getOneUser1(){
+        System.out.println("tao là tun1");
     }
 }
