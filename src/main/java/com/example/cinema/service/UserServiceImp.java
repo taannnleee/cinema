@@ -50,4 +50,7 @@ public class UserServiceImp implements UserService{
 
         System.out.println("tao là trí 1 tieeps theo");
     }
+    public  void mainKeTiep(){
+        System.out.println("main");
+    }
 }
