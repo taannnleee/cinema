@@ -40,4 +40,8 @@ public class UserServiceImp implements UserService{
     public void getOneUser1(){
         System.out.println("tao là tun1");
     }
+
+    public void vatimain {
+        System.out.println("them vào tí main");
+    }
 }
