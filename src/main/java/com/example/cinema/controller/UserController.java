@@ -20,7 +20,7 @@ public class UserController {
 //        return  ResponseEntity.ok(users);
 //    }
 
-    @PostMapping("")
+    @PostMapping("/hi")
     public User add (@RequestBody User user){
         return userservice.addUser(user);
     }
