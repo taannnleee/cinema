@@ -48,11 +48,17 @@ public class UserServiceImp implements UserService{
     public void TriLayUSer(){
         System.out.println("Tao là trí 1");
 
+<<<<<<< HEAD
         System.out.println("tao là trí 1 tieeps theo");
 
         System.out.println("tao là Trí 1 tiếp theo");
     }
     public  void mainKeTiep(){
         System.out.println("main");
+=======
+        System.out.println("tao là trí 1 tieeps theo");\
+
+        System.out.println("tao là Trí 1 tiếp theo");
+>>>>>>> 8b94e1718f2d8d272cd771def0af9f547071972b
     }
 }
